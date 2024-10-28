@@ -1,0 +1,2 @@
+# something
+LICENSE HACK
